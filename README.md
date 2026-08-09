@@ -28,9 +28,10 @@
 
 ### 📊 Statistik GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dinzid04&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=38B2AC&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dinzid04&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=38B2AC&text_color=c9d1d9&cache_seconds=86400" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinzid04&theme=radical&hide_border=true&background=0D1117&ring=38B2AC&fire=38B2AC&currStreakNum=c9d1d9" alt="GitHub Streak" width="48%" />
 </p>
+
 
 ### 🐍 Aktivitas Kontribusi
 <p align="center">
